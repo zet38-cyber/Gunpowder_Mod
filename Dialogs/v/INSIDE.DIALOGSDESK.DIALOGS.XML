@@ -37,7 +37,7 @@
     </cva_SP_LeaveAll_Box>
    </v_Actions>
    <v_ActionID></v_ActionID>
-   <HotKey>B</HotKey>
+   <HotKey>NONE</HotKey>
    <ID>0</ID>
    <Name></Name>
    <Hint>#INTRF_LeaveAll</Hint>

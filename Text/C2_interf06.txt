@@ -12,7 +12,6 @@
 #EW2_CampLoad Загрузка миссии в Кампании
 #EW2_SkirmishLoad Загрузка/Просмотр баталии или сражения
 UNITSMD\FRNGRE.MD.HISTORY Гренадер. Достаточно мощный юнит, бросающий гранаты
-#INTRF_LeaveAll Всем выйти из здания
 #Gbuy g
 #W100 w
 #S1000 s
